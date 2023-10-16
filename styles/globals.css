@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    font-family: 'Arial', sans-serif; /* Puedes cambiar 'Arial' por otra fuente que te guste */
+    font-size: 36px; /* Tamaño del texto */
+    font-weight: 700; /* Grosor de la fuente (700 generalmente es negrita) */
+    color: #ffffff; /* Color del texto, puedes cambiarlo según tu preferencia */
+    text-align: center; /* Alineación del texto al centro */
+    /* text-transform: uppercase; Convertir el texto a mayúsculas */
+    letter-spacing: 2px; /* Espaciado entre letras */
+    margin-bottom: 5px; /* Espacio en la parte inferior del texto */
+    margin-left: 5px;
+    /* Puedes agregar más propiedades según tus necesidades, como sombras, márgenes, etc. */
+}
